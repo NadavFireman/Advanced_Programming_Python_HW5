@@ -16,6 +16,3 @@ The assignment focuses on applying data science principles to build and evaluate
 * **`Advanced_Programming_HW5.ipynb`**: Full Python solution notebook with code and analysis results.
 * **`diabetes_sympthoms.csv`**: The raw dataset used for training and prediction.
 * **`Assignment_Instructions_5.pdf`**: Original assignment instructions.
-
-***
-*Course: Advanced Programming (Shenkar College, IE&M)*
